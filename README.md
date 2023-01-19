@@ -12,8 +12,3 @@
 <li>mv * ../ (+ .files)</li>
 <li>rm -rf example-app</li>
 </ul>
-
-## Instructions deploy without docker containers:
-<ul>
-<li></li>
-</ul>
