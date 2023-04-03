@@ -42,7 +42,7 @@ services:
       - "backend_network"
 
   postgres:
-    image: postgres:14.2
+    image: postgres
     environment:
       POSTGRES_DB: default
       POSTGRES_USER: default
